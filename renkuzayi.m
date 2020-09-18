@@ -24,4 +24,3 @@ for i=200:600;
 end
 
 imshow(x);
-
