@@ -1,3 +1,4 @@
+%girilen sayilara gore dama tahtasi ureten program
 function [output]=dama(x,y)
 a=zeros(x);
 
