@@ -5,7 +5,7 @@ for i=1:600;
            x(i,j,1)=1;
        end
     end
-end
+ end   
 
 for i=1:600;
     for j=200:600;
@@ -13,7 +13,7 @@ for i=1:600;
            x(i,j,2)=1;
        end
     end
-end
+ end   
 
 for i=200:600;
     for j=100:600;
@@ -21,6 +21,6 @@ for i=200:600;
            x(i,j,3)=1;
        end
     end
-end
+ end
 
 imshow(x);
