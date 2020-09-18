@@ -22,3 +22,4 @@ for i=200:600;
        end
     end
 end
+imshow(x);
